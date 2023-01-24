@@ -1,0 +1,19 @@
+{
+  "source": ["./downloads/output.json"],
+  "platforms": {
+    "ts": {
+      "buildPath": "src/const/tokens/",
+      "transformGroup": "js",
+      "files": [
+        {
+          "format": "javascript/module",
+          "destination": "tokens.js"
+        },
+        {
+          "format": "typescript/module-declarations",
+          "destination": "tokens.d.ts"
+        }
+      ]
+    }
+  }
+}
