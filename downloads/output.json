@@ -43,6 +43,10 @@
     "twitter": {
       "value": "#00ACEE",
       "type": "color"
+    },
+    "spotify": {
+      "value": "#2EBD59",
+      "type": "color"
     }
   },
   "bee": {
@@ -60,5 +64,113 @@
   "white": {
     "value": "#ffffff",
     "type": "color"
+  },
+  "fontsize": {
+    "100": {
+      "value": "10px",
+      "type": "fontSizes"
+    },
+    "200": {
+      "value": "12px",
+      "type": "fontSizes"
+    },
+    "300": {
+      "value": "16px",
+      "type": "fontSizes"
+    },
+    "400": {
+      "value": "20px",
+      "type": "fontSizes"
+    },
+    "500": {
+      "value": "22px",
+      "type": "fontSizes"
+    },
+    "600": {
+      "value": "26px",
+      "type": "fontSizes"
+    },
+    "700": {
+      "value": "32px",
+      "type": "fontSizes"
+    },
+    "800": {
+      "value": "42px",
+      "type": "fontSizes"
+    },
+    "900": {
+      "value": "64px",
+      "type": "fontSizes"
+    }
+  },
+  "spacing": {
+    "100": {
+      "value": "4px",
+      "type": "spacing"
+    },
+    "200": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "300": {
+      "value": "16px",
+      "type": "spacing"
+    },
+    "400": {
+      "value": "24px",
+      "type": "spacing"
+    },
+    "500": {
+      "value": "40px",
+      "type": "spacing"
+    },
+    "600": {
+      "value": "64px",
+      "type": "spacing"
+    },
+    "700": {
+      "value": "104px",
+      "type": "spacing"
+    }
+  },
+  "fontweight": {
+    "400": {
+      "value": 400,
+      "type": "fontWeights"
+    },
+    "700": {
+      "value": 700,
+      "type": "fontWeights"
+    }
+  },
+  "fontfamily": {
+    "secondary": {
+      "value": "Zen Kaku Gothic New",
+      "type": "fontFamilies"
+    },
+    "primary": {
+      "value": "Noto Sans JP",
+      "type": "fontFamilies"
+    }
+  },
+  "lineHeight": {
+    "300": {
+      "value": 1.5,
+      "type": "lineHeights"
+    },
+    "400": {
+      "value": 1.8,
+      "type": "lineHeights"
+    }
+  },
+  "letterSpacing": {
+    "300": {
+      "value": 0,
+      "type": "letterSpacing"
+    },
+    "400": {
+      "value": "0.04em",
+      "type": "letterSpacing"
+    }
   }
 }
