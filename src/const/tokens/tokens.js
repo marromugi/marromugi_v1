@@ -1,10 +1,29 @@
 /**
  * Do not edit directly
- * Generated on Tue, 24 Jan 2023 23:45:00 GMT
+ * Generated on Wed, 01 Feb 2023 13:52:34 GMT
  */
 
 module.exports = {
-  "crow": {
+  "kuroyuri": {
+    "0": {
+      "value": "#FFFFFF",
+      "type": "color",
+      "filePath": "./downloads/output.json",
+      "isSource": true,
+      "original": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "name": "Kuroyuri0",
+      "attributes": {
+        "category": "kuroyuri",
+        "type": "0"
+      },
+      "path": [
+        "kuroyuri",
+        "0"
+      ]
+    },
     "100": {
       "value": "#F0F0F0",
       "type": "color",
@@ -14,13 +33,13 @@ module.exports = {
         "value": "#F0F0F0",
         "type": "color"
       },
-      "name": "Crow100",
+      "name": "Kuroyuri100",
       "attributes": {
-        "category": "crow",
+        "category": "kuroyuri",
         "type": "100"
       },
       "path": [
-        "crow",
+        "kuroyuri",
         "100"
       ]
     },
@@ -33,13 +52,13 @@ module.exports = {
         "value": "#D9D9D9",
         "type": "color"
       },
-      "name": "Crow200",
+      "name": "Kuroyuri200",
       "attributes": {
-        "category": "crow",
+        "category": "kuroyuri",
         "type": "200"
       },
       "path": [
-        "crow",
+        "kuroyuri",
         "200"
       ]
     },
@@ -52,13 +71,13 @@ module.exports = {
         "value": "#B4B4B4",
         "type": "color"
       },
-      "name": "Crow300",
+      "name": "Kuroyuri300",
       "attributes": {
-        "category": "crow",
+        "category": "kuroyuri",
         "type": "300"
       },
       "path": [
-        "crow",
+        "kuroyuri",
         "300"
       ]
     },
@@ -71,13 +90,13 @@ module.exports = {
         "value": "#878787",
         "type": "color"
       },
-      "name": "Crow500",
+      "name": "Kuroyuri500",
       "attributes": {
-        "category": "crow",
+        "category": "kuroyuri",
         "type": "500"
       },
       "path": [
-        "crow",
+        "kuroyuri",
         "500"
       ]
     },
@@ -90,13 +109,13 @@ module.exports = {
         "value": "#484848",
         "type": "color"
       },
-      "name": "Crow700",
+      "name": "Kuroyuri700",
       "attributes": {
-        "category": "crow",
+        "category": "kuroyuri",
         "type": "700"
       },
       "path": [
-        "crow",
+        "kuroyuri",
         "700"
       ]
     },
@@ -109,13 +128,13 @@ module.exports = {
         "value": "#222222",
         "type": "color"
       },
-      "name": "Crow800",
+      "name": "Kuroyuri800",
       "attributes": {
-        "category": "crow",
+        "category": "kuroyuri",
         "type": "800"
       },
       "path": [
-        "crow",
+        "kuroyuri",
         "800"
       ]
     },
@@ -128,35 +147,14 @@ module.exports = {
         "value": "#131313",
         "type": "color"
       },
-      "name": "Crow900",
+      "name": "Kuroyuri900",
       "attributes": {
-        "category": "crow",
+        "category": "kuroyuri",
         "type": "900"
       },
       "path": [
-        "crow",
+        "kuroyuri",
         "900"
-      ]
-    }
-  },
-  "frog": {
-    "300": {
-      "value": "#63D746",
-      "type": "color",
-      "filePath": "./downloads/output.json",
-      "isSource": true,
-      "original": {
-        "value": "#63D746",
-        "type": "color"
-      },
-      "name": "Frog300",
-      "attributes": {
-        "category": "frog",
-        "type": "300"
-      },
-      "path": [
-        "frog",
-        "300"
       ]
     }
   },
@@ -219,73 +217,14 @@ module.exports = {
       ]
     }
   },
-  "bee": {
-    "300": {
-      "value": "#E5E879",
-      "type": "color",
-      "filePath": "./downloads/output.json",
-      "isSource": true,
-      "original": {
-        "value": "#E5E879",
-        "type": "color"
-      },
-      "name": "Bee300",
-      "attributes": {
-        "category": "bee",
-        "type": "300"
-      },
-      "path": [
-        "bee",
-        "300"
-      ]
-    }
-  },
-  "fish": {
-    "700": {
-      "value": "#393B63",
-      "type": "color",
-      "filePath": "./downloads/output.json",
-      "isSource": true,
-      "original": {
-        "value": "#393B63",
-        "type": "color"
-      },
-      "name": "Fish700",
-      "attributes": {
-        "category": "fish",
-        "type": "700"
-      },
-      "path": [
-        "fish",
-        "700"
-      ]
-    }
-  },
-  "white": {
-    "value": "#ffffff",
-    "type": "color",
-    "filePath": "./downloads/output.json",
-    "isSource": true,
-    "original": {
-      "value": "#ffffff",
-      "type": "color"
-    },
-    "name": "White",
-    "attributes": {
-      "category": "white"
-    },
-    "path": [
-      "white"
-    ]
-  },
   "fontsize": {
     "100": {
-      "value": "10px",
+      "value": "13px",
       "type": "fontSizes",
       "filePath": "./downloads/output.json",
       "isSource": true,
       "original": {
-        "value": "10px",
+        "value": "13px",
         "type": "fontSizes"
       },
       "name": "Fontsize100",
@@ -299,12 +238,12 @@ module.exports = {
       ]
     },
     "200": {
-      "value": "12px",
+      "value": "15px",
       "type": "fontSizes",
       "filePath": "./downloads/output.json",
       "isSource": true,
       "original": {
-        "value": "12px",
+        "value": "15px",
         "type": "fontSizes"
       },
       "name": "Fontsize200",
@@ -743,6 +682,411 @@ module.exports = {
       "path": [
         "letterSpacing",
         "400"
+      ]
+    }
+  },
+  "transition": {
+    "primary": {
+      "value": 300,
+      "type": "other",
+      "filePath": "./downloads/output.json",
+      "isSource": true,
+      "original": {
+        "value": 300,
+        "type": "other"
+      },
+      "name": "TransitionPrimary",
+      "attributes": {
+        "category": "transition",
+        "type": "primary"
+      },
+      "path": [
+        "transition",
+        "primary"
+      ]
+    }
+  },
+  "lavender": {
+    "50": {
+      "value": "#fcf6ff",
+      "type": "color",
+      "filePath": "./downloads/output.json",
+      "isSource": true,
+      "original": {
+        "value": "#fcf6ff",
+        "type": "color"
+      },
+      "name": "Lavender50",
+      "attributes": {
+        "category": "lavender",
+        "type": "50"
+      },
+      "path": [
+        "lavender",
+        "50"
+      ]
+    },
+    "100": {
+      "value": "#f7f1ff",
+      "type": "color",
+      "filePath": "./downloads/output.json",
+      "isSource": true,
+      "original": {
+        "value": "#f7f1ff",
+        "type": "color"
+      },
+      "name": "Lavender100",
+      "attributes": {
+        "category": "lavender",
+        "type": "100"
+      },
+      "path": [
+        "lavender",
+        "100"
+      ]
+    },
+    "200": {
+      "value": "#efe9ff",
+      "type": "color",
+      "filePath": "./downloads/output.json",
+      "isSource": true,
+      "original": {
+        "value": "#efe9ff",
+        "type": "color"
+      },
+      "name": "Lavender200",
+      "attributes": {
+        "category": "lavender",
+        "type": "200"
+      },
+      "path": [
+        "lavender",
+        "200"
+      ]
+    },
+    "300": {
+      "value": "#e1dbf7",
+      "type": "color",
+      "filePath": "./downloads/output.json",
+      "isSource": true,
+      "original": {
+        "value": "#e1dbf7",
+        "type": "color"
+      },
+      "name": "Lavender300",
+      "attributes": {
+        "category": "lavender",
+        "type": "300"
+      },
+      "path": [
+        "lavender",
+        "300"
+      ]
+    },
+    "400": {
+      "value": "#bdb8d3",
+      "type": "color",
+      "filePath": "./downloads/output.json",
+      "isSource": true,
+      "original": {
+        "value": "#bdb8d3",
+        "type": "color"
+      },
+      "name": "Lavender400",
+      "attributes": {
+        "category": "lavender",
+        "type": "400"
+      },
+      "path": [
+        "lavender",
+        "400"
+      ]
+    },
+    "500": {
+      "value": "#9e99b3",
+      "type": "color",
+      "filePath": "./downloads/output.json",
+      "isSource": true,
+      "original": {
+        "value": "#9e99b3",
+        "type": "color"
+      },
+      "name": "Lavender500",
+      "attributes": {
+        "category": "lavender",
+        "type": "500"
+      },
+      "path": [
+        "lavender",
+        "500"
+      ]
+    },
+    "600": {
+      "value": "#757089",
+      "type": "color",
+      "filePath": "./downloads/output.json",
+      "isSource": true,
+      "original": {
+        "value": "#757089",
+        "type": "color"
+      },
+      "name": "Lavender600",
+      "attributes": {
+        "category": "lavender",
+        "type": "600"
+      },
+      "path": [
+        "lavender",
+        "600"
+      ]
+    },
+    "700": {
+      "value": "#615c74",
+      "type": "color",
+      "filePath": "./downloads/output.json",
+      "isSource": true,
+      "original": {
+        "value": "#615c74",
+        "type": "color"
+      },
+      "name": "Lavender700",
+      "attributes": {
+        "category": "lavender",
+        "type": "700"
+      },
+      "path": [
+        "lavender",
+        "700"
+      ]
+    },
+    "800": {
+      "value": "#423e54",
+      "type": "color",
+      "filePath": "./downloads/output.json",
+      "isSource": true,
+      "original": {
+        "value": "#423e54",
+        "type": "color"
+      },
+      "name": "Lavender800",
+      "attributes": {
+        "category": "lavender",
+        "type": "800"
+      },
+      "path": [
+        "lavender",
+        "800"
+      ]
+    },
+    "900": {
+      "value": "#201d31",
+      "type": "color",
+      "filePath": "./downloads/output.json",
+      "isSource": true,
+      "original": {
+        "value": "#201d31",
+        "type": "color"
+      },
+      "name": "Lavender900",
+      "attributes": {
+        "category": "lavender",
+        "type": "900"
+      },
+      "path": [
+        "lavender",
+        "900"
+      ]
+    }
+  },
+  "marigold": {
+    "50": {
+      "value": "#fcffe5",
+      "type": "color",
+      "filePath": "./downloads/output.json",
+      "isSource": true,
+      "original": {
+        "value": "#fcffe5",
+        "type": "color"
+      },
+      "name": "Marigold50",
+      "attributes": {
+        "category": "marigold",
+        "type": "50"
+      },
+      "path": [
+        "marigold",
+        "50"
+      ]
+    },
+    "100": {
+      "value": "#f7fae0",
+      "type": "color",
+      "filePath": "./downloads/output.json",
+      "isSource": true,
+      "original": {
+        "value": "#f7fae0",
+        "type": "color"
+      },
+      "name": "Marigold100",
+      "attributes": {
+        "category": "marigold",
+        "type": "100"
+      },
+      "path": [
+        "marigold",
+        "100"
+      ]
+    },
+    "200": {
+      "value": "#f2f5db",
+      "type": "color",
+      "filePath": "./downloads/output.json",
+      "isSource": true,
+      "original": {
+        "value": "#f2f5db",
+        "type": "color"
+      },
+      "name": "Marigold200",
+      "attributes": {
+        "category": "marigold",
+        "type": "200"
+      },
+      "path": [
+        "marigold",
+        "200"
+      ]
+    },
+    "300": {
+      "value": "#eef0d6",
+      "type": "color",
+      "filePath": "./downloads/output.json",
+      "isSource": true,
+      "original": {
+        "value": "#eef0d6",
+        "type": "color"
+      },
+      "name": "Marigold300",
+      "attributes": {
+        "category": "marigold",
+        "type": "300"
+      },
+      "path": [
+        "marigold",
+        "300"
+      ]
+    },
+    "400": {
+      "value": "#ced1b7",
+      "type": "color",
+      "filePath": "./downloads/output.json",
+      "isSource": true,
+      "original": {
+        "value": "#ced1b7",
+        "type": "color"
+      },
+      "name": "Marigold400",
+      "attributes": {
+        "category": "marigold",
+        "type": "400"
+      },
+      "path": [
+        "marigold",
+        "400"
+      ]
+    },
+    "500": {
+      "value": "#b1b39b",
+      "type": "color",
+      "filePath": "./downloads/output.json",
+      "isSource": true,
+      "original": {
+        "value": "#b1b39b",
+        "type": "color"
+      },
+      "name": "Marigold500",
+      "attributes": {
+        "category": "marigold",
+        "type": "500"
+      },
+      "path": [
+        "marigold",
+        "500"
+      ]
+    },
+    "600": {
+      "value": "#868971",
+      "type": "color",
+      "filePath": "./downloads/output.json",
+      "isSource": true,
+      "original": {
+        "value": "#868971",
+        "type": "color"
+      },
+      "name": "Marigold600",
+      "attributes": {
+        "category": "marigold",
+        "type": "600"
+      },
+      "path": [
+        "marigold",
+        "600"
+      ]
+    },
+    "700": {
+      "value": "#71745d",
+      "type": "color",
+      "filePath": "./downloads/output.json",
+      "isSource": true,
+      "original": {
+        "value": "#71745d",
+        "type": "color"
+      },
+      "name": "Marigold700",
+      "attributes": {
+        "category": "marigold",
+        "type": "700"
+      },
+      "path": [
+        "marigold",
+        "700"
+      ]
+    },
+    "800": {
+      "value": "#51543e",
+      "type": "color",
+      "filePath": "./downloads/output.json",
+      "isSource": true,
+      "original": {
+        "value": "#51543e",
+        "type": "color"
+      },
+      "name": "Marigold800",
+      "attributes": {
+        "category": "marigold",
+        "type": "800"
+      },
+      "path": [
+        "marigold",
+        "800"
+      ]
+    },
+    "900": {
+      "value": "#2e311d",
+      "type": "color",
+      "filePath": "./downloads/output.json",
+      "isSource": true,
+      "original": {
+        "value": "#2e311d",
+        "type": "color"
+      },
+      "name": "Marigold900",
+      "attributes": {
+        "category": "marigold",
+        "type": "900"
+      },
+      "path": [
+        "marigold",
+        "900"
       ]
     }
   }

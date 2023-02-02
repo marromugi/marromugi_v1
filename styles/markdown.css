@@ -1,0 +1,281 @@
+// code
+code {
+  background: pink;
+}
+
+.article-markdown-light h2 {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 700;
+  margin-top: 2em;
+}
+
+.article-markdown-light h3 {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 700;
+  margin-top: 2em;
+}
+
+.article-markdown-light h4 {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 700;
+  margin-top: 1.5em;
+}
+
+.article-markdown-light p {
+  line-height: 2em;
+  letter-spacing: 0.01em;
+  margin-top: 1em;
+  font-family: 'Noto Sans JP', sans-serif;
+  white-space: pre-wrap;
+}
+
+.article-markdown-light > pre > div {
+  padding: 1em !important;
+  border-radius: 12px;
+  margin-top: 2em;
+}
+
+.article-markdown-light code > span {
+  font-size: 1em;
+  line-height: 2em;
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+.article-markdown-light p > code {
+  font-size: 0.9em;
+  font-family: 'Ubuntu Mono', monospace;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  background: #e0e0e0;
+  white-space: pre-wrap;
+}
+
+.article-markdown-light > ul {
+  padding: 0 0 0 20px;
+  margin: 0;
+  margin-top: 1em;
+}
+
+.article-markdown-light ul li {
+  font-family: 'Noto Sans JP', sans-serif;
+  line-height: 2em;
+  letter-spacing: 0.01em;
+}
+
+.article-markdown-light ul li * {
+  margin: 0;
+}
+
+.article-markdown-light > ol {
+  padding: 0 0 0 20px;
+  margin: 0;
+  margin-top: 1em;
+}
+
+.article-markdown-light ol li {
+  font-family: 'Noto Sans JP', sans-serif;
+  line-height: 2em;
+  letter-spacing: 0.01em;
+}
+
+.article-markdown-light ol li * {
+  margin: 0;
+}
+
+.article-markdown-light ol li::marker {
+  font-weight: 600;
+  padding-left: 8px;
+}
+
+.article-markdown-light p img {
+  width: 100%;
+  border-radius: 6px;
+  margin: 1.5em 0;
+}
+
+.article-markdown-light table {
+  background: #c0c0c0;
+  margin-top: 1em;
+}
+
+.article-markdown-light table tr th {
+  padding: 6px 12px;
+  background: #f0f0f0;
+}
+
+.article-markdown-light table tbody tr {
+  border-bottom: solid 2px gray;
+}
+
+.article-markdown-light table tbody tr:last-child {
+  border-bottom: none;
+}
+
+.article-markdown-light table tbody tr td {
+  padding: 6px 12px;
+  background: white;
+}
+
+.article-markdown-light blockquote {
+  margin: 0;
+  margin-top: 1em;
+  padding: 8px 1em;
+  border-left: solid 4px gray;
+}
+
+.article-markdown-light blockquote p {
+  color: #696969;
+  font-size: 0.9em;
+  line-height: 2em;
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+/* dark */
+/* heading */
+.article-markdown-dark h2 {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 700;
+  margin-top: 2em;
+  color: #f7f1ff;
+}
+
+.article-markdown-dark h3 {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 700;
+  margin-top: 2em;
+  color: #f7f1ff;
+}
+
+.article-markdown-dark h4 {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 700;
+  margin-top: 1.5em;
+  color: #f7f1ff;
+}
+
+.article-markdown-dark p {
+  line-height: 2em;
+  letter-spacing: 0.01em;
+  margin-top: 1em;
+  font-family: 'Noto Sans JP', sans-serif;
+  color: #f7f1ff;
+  white-space: pre-wrap;
+}
+
+.article-markdown-dark > pre > div {
+  padding: 1em !important;
+  border-radius: 12px;
+  margin-top: 2em;
+}
+
+.article-markdown-dark code > span {
+  font-size: 1em;
+  line-height: 2em;
+  font-family: 'Ubuntu Mono', monospace;
+  color: #f7f1ff;
+}
+
+.article-markdown-dark p > code {
+  font-size: 0.9em;
+  font-family: 'Ubuntu Mono', monospace;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  background: #62548e;
+  color: #f7f1ff;
+  white-space: pre-wrap;
+}
+
+.article-markdown-dark > ul {
+  padding: 0 0 0 20px;
+  margin: 0;
+  margin-top: 1em;
+}
+
+.article-markdown-dark ul li {
+  font-family: 'Noto Sans JP', sans-serif;
+  line-height: 2em;
+  letter-spacing: 0.01em;
+  color: #f7f1ff;
+}
+
+.article-markdown-dark ul li * {
+  margin: 0;
+}
+
+.article-markdown-dark > ol {
+  padding: 0 0 0 20px;
+  margin: 0;
+  margin-top: 1em;
+}
+
+.article-markdown-dark ol li {
+  font-family: 'Noto Sans JP', sans-serif;
+  line-height: 2em;
+  letter-spacing: 0.01em;
+  color: #f7f1ff;
+}
+
+.article-markdown-dark ol li * {
+  margin: 0;
+}
+
+.article-markdown-dark ol li::marker {
+  font-weight: 600;
+  padding-left: 8px;
+}
+
+.article-markdown-dark p img {
+  width: 100%;
+  border-radius: 6px;
+  margin: 1.5em 0;
+}
+
+.article-markdown-dark table {
+  background: #c0c0c0;
+  margin-top: 1em;
+}
+
+.article-markdown-dark table tr th {
+  padding: 6px 12px;
+  background: #62548e;
+  color: #f7f1ff;
+}
+
+.article-markdown-dark table tbody tr {
+  border-bottom: solid 2px gray;
+}
+
+.article-markdown-dark table tbody tr:last-child {
+  border-bottom: none;
+}
+
+.article-markdown-dark table tbody tr td {
+  padding: 6px 12px;
+  background: #3c3945;
+  color: #f7f1ff;
+}
+
+.article-markdown-dark blockquote {
+  margin: 0;
+  margin-top: 1em;
+  padding: 8px 1em;
+  border-left: solid 4px gray;
+}
+
+.article-markdown-dark blockquote p {
+  color: #696969;
+  font-size: 0.9em;
+  line-height: 2em;
+  margin: 0;
+  color: #f7f1ff;
+  white-space: pre-wrap;
+}
+
+.article-markdown-dark a {
+  color: #eef0d6;
+}
+
+.article-markdown-dark a:visited {
+  color: #868971;
+}

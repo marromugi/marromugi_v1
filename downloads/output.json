@@ -1,5 +1,9 @@
 {
-  "crow": {
+  "kuroyuri": {
+    "0": {
+      "value": "#FFFFFF",
+      "type": "color"
+    },
     "100": {
       "value": "#F0F0F0",
       "type": "color"
@@ -29,12 +33,6 @@
       "type": "color"
     }
   },
-  "frog": {
-    "300": {
-      "value": "#63D746",
-      "type": "color"
-    }
-  },
   "sns": {
     "github": {
       "value": "#171515",
@@ -49,29 +47,13 @@
       "type": "color"
     }
   },
-  "bee": {
-    "300": {
-      "value": "#E5E879",
-      "type": "color"
-    }
-  },
-  "fish": {
-    "700": {
-      "value": "#393B63",
-      "type": "color"
-    }
-  },
-  "white": {
-    "value": "#ffffff",
-    "type": "color"
-  },
   "fontsize": {
     "100": {
-      "value": "10px",
+      "value": "13px",
       "type": "fontSizes"
     },
     "200": {
-      "value": "12px",
+      "value": "15px",
       "type": "fontSizes"
     },
     "300": {
@@ -171,6 +153,96 @@
     "400": {
       "value": "0.04em",
       "type": "letterSpacing"
+    }
+  },
+  "transition": {
+    "primary": {
+      "value": 300,
+      "type": "other"
+    }
+  },
+  "lavender": {
+    "50": {
+      "value": "#fcf6ff",
+      "type": "color"
+    },
+    "100": {
+      "value": "#f7f1ff",
+      "type": "color"
+    },
+    "200": {
+      "value": "#efe9ff",
+      "type": "color"
+    },
+    "300": {
+      "value": "#e1dbf7",
+      "type": "color"
+    },
+    "400": {
+      "value": "#bdb8d3",
+      "type": "color"
+    },
+    "500": {
+      "value": "#9e99b3",
+      "type": "color"
+    },
+    "600": {
+      "value": "#757089",
+      "type": "color"
+    },
+    "700": {
+      "value": "#615c74",
+      "type": "color"
+    },
+    "800": {
+      "value": "#423e54",
+      "type": "color"
+    },
+    "900": {
+      "value": "#201d31",
+      "type": "color"
+    }
+  },
+  "marigold": {
+    "50": {
+      "value": "#fcffe5",
+      "type": "color"
+    },
+    "100": {
+      "value": "#f7fae0",
+      "type": "color"
+    },
+    "200": {
+      "value": "#f2f5db",
+      "type": "color"
+    },
+    "300": {
+      "value": "#eef0d6",
+      "type": "color"
+    },
+    "400": {
+      "value": "#ced1b7",
+      "type": "color"
+    },
+    "500": {
+      "value": "#b1b39b",
+      "type": "color"
+    },
+    "600": {
+      "value": "#868971",
+      "type": "color"
+    },
+    "700": {
+      "value": "#71745d",
+      "type": "color"
+    },
+    "800": {
+      "value": "#51543e",
+      "type": "color"
+    },
+    "900": {
+      "value": "#2e311d",
+      "type": "color"
     }
   }
 }

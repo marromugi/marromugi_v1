@@ -1,0 +1,5 @@
+export * from './headline1'
+export * from './headline2'
+export * from './headline3'
+export * from './text'
+export * from './word'

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 24 Jan 2023 23:45:00 GMT
+ * Generated on Wed, 01 Feb 2023 13:52:34 GMT
  */
 
 export default tokens;
@@ -22,7 +22,8 @@ declare interface DesignToken {
 }
 
 declare const tokens: {
-  "crow": {
+  "kuroyuri": {
+    "0": DesignToken,
     "100": DesignToken,
     "200": DesignToken,
     "300": DesignToken,
@@ -31,21 +32,11 @@ declare const tokens: {
     "800": DesignToken,
     "900": DesignToken
   },
-  "frog": {
-    "300": DesignToken
-  },
   "sns": {
     "github": DesignToken,
     "twitter": DesignToken,
     "spotify": DesignToken
   },
-  "bee": {
-    "300": DesignToken
-  },
-  "fish": {
-    "700": DesignToken
-  },
-  "white": DesignToken,
   "fontsize": {
     "100": DesignToken,
     "200": DesignToken,
@@ -81,5 +72,32 @@ declare const tokens: {
   "letterSpacing": {
     "300": DesignToken,
     "400": DesignToken
+  },
+  "transition": {
+    "primary": DesignToken
+  },
+  "lavender": {
+    "50": DesignToken,
+    "100": DesignToken,
+    "200": DesignToken,
+    "300": DesignToken,
+    "400": DesignToken,
+    "500": DesignToken,
+    "600": DesignToken,
+    "700": DesignToken,
+    "800": DesignToken,
+    "900": DesignToken
+  },
+  "marigold": {
+    "50": DesignToken,
+    "100": DesignToken,
+    "200": DesignToken,
+    "300": DesignToken,
+    "400": DesignToken,
+    "500": DesignToken,
+    "600": DesignToken,
+    "700": DesignToken,
+    "800": DesignToken,
+    "900": DesignToken
   }
 }
