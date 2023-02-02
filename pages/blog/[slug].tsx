@@ -56,7 +56,7 @@ export const getStaticPaths = async () => {
     .filter((t) => t.type === 'blog')
     .map((t) => `/blog/${t.slug}`)
 
-  return { paths, fallback: false }
+  return { paths, fallback: 'blocking' }
 }
 
 export const getStaticProps = async ({
@@ -83,5 +83,5 @@ export const getStaticProps = async ({
     },
   })
 
-  return { props: { timeline }, revalidate: 60 }
+  return { props: { timeline }, revalidate: 10 }
 }

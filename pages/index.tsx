@@ -63,5 +63,5 @@ export const getStaticProps = async () => {
     modelUid: 'timeline',
   })
 
-  return { props: { timelines: articles.items as Timeline[] }, revalidate: 60 }
+  return { props: { timelines: articles.items as Timeline[] }, revalidate: 10 }
 }

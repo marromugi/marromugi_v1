@@ -34,8 +34,6 @@ export const TimelineListItem = ({ timeline }: TimelineListItemProps) => {
     position: absolute;
   `
 
-  console.log(timeline)
-
   return (
     <div
       css={css`
