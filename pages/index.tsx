@@ -19,7 +19,7 @@ export default function Home({ timelines }: { timelines: Timeline[] }) {
     setTimeout(() => {
       setLoading(false)
     }, 1000)
-  }, [])
+  }, [setLoading])
 
   const boxStyle = css`
     width: 100%;
