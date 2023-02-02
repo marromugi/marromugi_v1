@@ -32,7 +32,7 @@ export const Header = () => {
           items={'center'}
           justify={'space-between'}
         >
-          <TransitionLink href={'/'}>
+          <TransitionLink href={'/'} width={'auto'}>
             <Text size="200" weight="700" space={{ x: '400' }}>
               marromugi
             </Text>
