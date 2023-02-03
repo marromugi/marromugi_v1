@@ -34,7 +34,7 @@ export default function Home({ timeline }: { timeline: Timeline }) {
       <Box margin={'68px 0 0 0'}>
         <PageTitle title={timeline.title} size={'600'} />
       </Box>
-      <ArticleInfo />
+      <ArticleInfo timeline={timeline} />
       <Box padding="0 0 160px 0">
         {timeline.blog && <BlogMarkdown content={articleText} />}
       </Box>
